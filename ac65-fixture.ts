@@ -1,0 +1,10 @@
+export const AC65_LINE_0 = 0;
+export const AC65_LINE_1 = 1;
+export const AC65_LINE_2 = 2;
+export const AC65_LINE_3 = 3;
+export const AC65_LINE_4 = 4;
+export const AC65_LINE_5 = 5;
+export const AC65_LINE_6 = 6;
+export const AC65_LINE_7 = 7;
+export const AC65_LINE_8 = 8;
+export const AC65_LINE_9 = 9;
